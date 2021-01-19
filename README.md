@@ -10,4 +10,8 @@
 * Install pygame library if not present using: pip install pygame
 * Copy the checkers.py file and king.png in the same file.
 * Run the checkers.py file.
+* Select the piece to move first then select the square to move to.
 * To play in different modes, follow the steps given in the comments inside the main() function.
+
+# Board
+![alt text]()
