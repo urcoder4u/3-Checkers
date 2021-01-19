@@ -1,6 +1,7 @@
 # 3-Checkers
 * A GUI based python program which lets you play checkers in 3 modes: human VS human, AI VS human and AI VS AI.
 * Uses Mini-Max Algorithm to find the appropriate move to be taken by AI.
+* Rules of the game is same as a standard checkers game.
 * Implemented using OOPS concept.
 
 # Packages required
