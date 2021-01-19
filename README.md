@@ -9,3 +9,4 @@
 * Install pygame library if not present using: pip install pygame
 * Copy the checkers.py file and king.png in the same file.
 * Run the checkers.py file.
+* To play in different modes, follow the steps given in the comments inside the main() function.
